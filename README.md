@@ -3,9 +3,11 @@
 <img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/5ddf73ad3a205111cf8c686f687fc216c2946a75005718c8da5b837ad9de78c9/68747470733a2f2f7468756d62732e6766796361742e636f6d2f4576696c4e657874446576696c666973682d736d616c6c2e676966">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=jagadeeshwaran&label=Profile%20views&color=0e75b6&style=flat" alt="jagadeeshwaran" /> </p>
 
-- 🔭 I’m currently working on **DRONE**
+- 🔭 I’m currently working on **Drone**
 
 - 🌱 I’m currently learning **ROS|Deep_Learning|Embedded_System**
+
+- 💬 Ask me about **Industrial Automation and Robotics**
 
 - 📫 How to reach me **jagadeeshdinesh143@gmail.com**
 
@@ -13,8 +15,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/jagadeeshwaran t" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagadeeshwaran t" height="30" width="40" /></a>
-<a href="https://fb.com/jagadeeshwaran thagaraj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jagadeeshwaran thagaraj" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/jagadeeshwaran-t-38734b14b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jagadeeshwaran-t-38734b14b" height="30" width="40" /></a>
+<a href="https://fb.com/jagadeesh.dinesh.75" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="jagadeesh.dinesh.75" height="30" width="40" /></a>
 <a href="https://instagram.com/soulless_fellow_143" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="soulless_fellow_143" height="30" width="40" /></a>
 </p>
 
