@@ -7,7 +7,7 @@
 
 ---
 
-- 🔭 **I’m currently working at [Zebu Intelligent Systems](https://www.zebuintelligent.com/)** on cutting-edge **Drone Navigation, ROS Development, and Autonomous Systems**.  
+- 🔭 **I’m currently working at [Zebu Intelligent Systems](https://www.zebuintelligent.com/)** on **Drone Navigation, ROS Development, and Autonomous Systems**.  
 - 🎓 Proud alumnus of **[Bannari Amman Institute of Technology](https://www.bitsathy.ac.in/)**, specializing in Mechatronics Engineering.  
 - 🌱 Constantly learning and exploring **ROS, Deep Learning, Blender Motion Animation, and Server Building**.  
 - 💡 Ask me about **Industrial Automation, Robotics, and UAV Design**.  
